@@ -1,0 +1,28 @@
+﻿.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+        color: #FFFF00;
+}
+
+#footer1 {
+    background: #00b3b3;
+}
+
+#footer2 {
+    background: #008080;
+}
+
+#nav-color {
+    background: #008080;
+}
+
+#container1{
+    padding-bottom: 90px;
+}
+
+#column {
+    padding-bottom: 50px;
+}
